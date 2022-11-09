@@ -1,0 +1,9 @@
+$primary: #401f7c;
+$secondry: #f4f4f4;
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import 'style.scss';
